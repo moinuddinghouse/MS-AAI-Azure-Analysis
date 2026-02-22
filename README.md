@@ -133,22 +133,30 @@ Potential extensions for improved predictive modeling include:
 
 ## 💻 How to Run the Project
 
+## 💻 How to Run the Project
+
 1. Clone the repository:
    ```
    git clone https://github.com/moinuddinghouse/MS-AAI-Azure-Analysis.git
    ```
 
-2. Install required libraries:
+2. Navigate into the project folder:
+   ```
+   cd MS-AAI-Azure-Analysis
+   ```
+
+3. Install required libraries:
    ```
    pip install -r requirements.txt
    ```
 
-3. Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
    ```
-   jupyter notebook FinalProject1.ipynb
+   jupyter notebook Final-Project-Report-Team-2.ipynb
    ```
 
-4. Run all cells sequentially.
+5. Run all cells sequentially to reproduce the analysis.
+
 
 ---
 
